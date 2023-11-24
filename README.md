@@ -1,16 +1,7 @@
-# untitled1
+Flutter UI Design of a home page.
 
-A new Flutter project.
+![image](https://github.com/TravisOO7/Flutter-UI-1/assets/26813694/c07a08e1-d68e-4c9c-8fb4-fd1042287ac0)
 
-## Getting Started
+![image](https://github.com/TravisOO7/Flutter-UI-1/assets/26813694/067f3e77-9981-477d-a6e1-49327cafac0a)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
